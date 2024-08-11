@@ -51,7 +51,7 @@ The script performs the following steps:
 
 Here is an example of how the script processes the data:
 
--  Inpur csv file (`grouped_posts.csv`)
+-  Input csv file (`grouped_posts.csv`)
 ```sh
 id,permalink
 1,https://www.reddit.com/r/python/comments/abc123/example_post_1/
