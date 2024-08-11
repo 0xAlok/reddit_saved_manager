@@ -23,8 +23,10 @@ pip install pandas
     - Save the script as `subreddit_posts_processor.py`.
     - Use `subreddit_comments_processor.py` for saved comments.
 
+3. Update the script with CSV file path:
+    - Open `subreddit_posts_processor.py` and update the file path variable to point to your CSV file.
+
 3. Run the Script:
-    - Place the CSV file in the same directory as the script or update the script with the correct path to your CSV file.
     - Open a terminal and navigate to the directory containing the script.
     - Run the script using Python.
 
