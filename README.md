@@ -1,4 +1,4 @@
-# Reddit Saved Posts Manager
+# Reddit Saved Posts Organizer
 
 This script processes a CSV file containing saved Reddit posts and groups them by subreddit. The output is saved to an Excel file.
 
