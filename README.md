@@ -10,7 +10,7 @@ This script processes a CSV file containing saved Reddit posts and groups them b
 You can install the required library using pip:
 
 ```sh
-pip install pandas
+pip install pandas -
 ```
 
 ## Steps to Use
